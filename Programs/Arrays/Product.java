@@ -1,4 +1,4 @@
-//Program to find Product of all elements in an arrray
+//Program to find Product of all elements in an array
 
 //import Scanner class from util package
 import java.util.Scanner;
